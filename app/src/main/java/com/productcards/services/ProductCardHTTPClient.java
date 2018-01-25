@@ -10,7 +10,8 @@ import org.json.JSONException;
 
 import java.io.IOException;
 import java.net.URL;
-class ProductCardHTTPClient {
+
+public class ProductCardHTTPClient {
 
     private static final String TAG = ProductCardHTTPClient.class.getSimpleName();
 
