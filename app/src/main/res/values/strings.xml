@@ -1,15 +1,8 @@
 <resources>
-    <string name="app_name">ISS Pass Times</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Product Cards List</string>
+    <string name="action_settings">Search for Favorite Places</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="go">Go</string>
-
-    <string name="day">Day</string>
-    <string name="passtime">Pass Time in Seconds</string>
-    <string name="isstimestamp">ISS TimeStamp</string>
-
-
-
+    <string name="shop_men">Shop Men</string>
+    <string name="shop_women">Shop Women</string>
 
 </resources>
